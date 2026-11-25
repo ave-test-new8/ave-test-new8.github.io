@@ -1,0 +1,1 @@
+import{_ as e}from"./hng_OgH1.js";import{wi as i}from"./DrAUdSV-.js";var o=e("favToken",()=>{const e=i({prefix:"favToken",defaultFixedWidth:300});return{...e,visible:e.visible,favTokenBoundingRect:e.boundingRect}});export{o as t};
